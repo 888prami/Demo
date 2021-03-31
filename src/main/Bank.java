@@ -1,6 +1,8 @@
 package main;
 import java.util.Vector;
 
+//Class bank is created
+
 public class Bank 
 {
 public int minimumBalance;
